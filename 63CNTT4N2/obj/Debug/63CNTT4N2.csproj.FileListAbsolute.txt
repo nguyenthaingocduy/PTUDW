@@ -77,3 +77,10 @@ D:\PTUDW\PTUDW\63CNTT4N2\obj\Debug\63CNTT4N2.csproj.CoreCompileInputs.cache
 D:\PTUDW\PTUDW\63CNTT4N2\obj\Debug\63CNTT4N2.csproj.CopyComplete
 D:\PTUDW\PTUDW\63CNTT4N2\obj\Debug\63CNTT4N2.dll
 D:\PTUDW\PTUDW\63CNTT4N2\obj\Debug\63CNTT4N2.pdb
+D:\PTUDW\PTUDW\63CNTT4N2\bin\MyClass.dll
+D:\PTUDW\PTUDW\63CNTT4N2\bin\MyClass.pdb
+D:\PTUDW\PTUDW\63CNTT4N2\bin\MyClass.dll.config
+D:\PTUDW\PTUDW\63CNTT4N2\bin\EntityFramework.xml
+D:\PTUDW\PTUDW\63CNTT4N2\bin\EntityFramework.dll
+D:\PTUDW\PTUDW\63CNTT4N2\bin\EntityFramework.SqlServer.dll
+D:\PTUDW\PTUDW\63CNTT4N2\bin\EntityFramework.SqlServer.xml
