@@ -1,15 +1,15 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Data.Entity;
 
 namespace MyClass.Model
 {
     public class MyDBContext : DbContext
     {
-        public MyDBContext() : base("name = StrConnect ") { }
+        public MyDBContext() : base("name=StrConnect") { }
         public DbSet<Categories> Categories { get; set; }
         public DbSet<Contacts> Contacts { get; set; }
         public DbSet<Links> Links { get; set; }

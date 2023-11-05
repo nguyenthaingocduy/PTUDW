@@ -1,86 +1,172 @@
-D:\PTUDW\PTUDW\63CNTT4N2\bin\63CNTT4N2.dll.config
-D:\PTUDW\PTUDW\63CNTT4N2\bin\63CNTT4N2.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\63CNTT4N2.pdb
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\csc.exe
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\csc.exe.config
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\csc.rsp
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\csi.exe
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\csi.exe.config
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\csi.rsp
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\Microsoft.CodeAnalysis.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\Microsoft.CSharp.Core.targets
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\Microsoft.Managed.Core.targets
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\Microsoft.VisualBasic.Core.targets
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\Microsoft.Win32.Primitives.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\System.AppContext.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\System.Collections.Immutable.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\System.Console.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\System.Diagnostics.StackTrace.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\System.Globalization.Calendars.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\System.IO.Compression.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\System.IO.Compression.ZipFile.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\System.IO.FileSystem.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\System.IO.FileSystem.Primitives.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\System.Net.Http.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\System.Net.Sockets.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\System.Reflection.Metadata.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\System.Security.Cryptography.Encoding.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\System.Security.Cryptography.Primitives.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\System.Text.Encoding.CodePages.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\System.Threading.Tasks.Extensions.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\System.ValueTuple.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\System.Xml.ReaderWriter.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\System.Xml.XmlDocument.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\System.Xml.XPath.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\System.Xml.XPath.XDocument.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\vbc.exe
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\vbc.exe.config
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\vbc.rsp
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\VBCSCompiler.exe
-D:\PTUDW\PTUDW\63CNTT4N2\bin\roslyn\VBCSCompiler.exe.config
-D:\PTUDW\PTUDW\63CNTT4N2\bin\Antlr3.Runtime.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\Microsoft.Web.Infrastructure.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\Newtonsoft.Json.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\System.Web.Helpers.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\System.Web.Mvc.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\System.Web.Optimization.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\System.Web.Razor.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\System.Web.WebPages.Deployment.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\System.Web.WebPages.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\System.Web.WebPages.Razor.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\WebGrease.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\System.Web.Helpers.xml
-D:\PTUDW\PTUDW\63CNTT4N2\bin\System.Web.Mvc.xml
-D:\PTUDW\PTUDW\63CNTT4N2\bin\System.Web.Optimization.xml
-D:\PTUDW\PTUDW\63CNTT4N2\bin\System.Web.Razor.xml
-D:\PTUDW\PTUDW\63CNTT4N2\bin\System.Web.WebPages.xml
-D:\PTUDW\PTUDW\63CNTT4N2\bin\System.Web.WebPages.Deployment.xml
-D:\PTUDW\PTUDW\63CNTT4N2\bin\System.Web.WebPages.Razor.xml
-D:\PTUDW\PTUDW\63CNTT4N2\bin\Newtonsoft.Json.xml
-D:\PTUDW\PTUDW\63CNTT4N2\bin\Antlr3.Runtime.pdb
-D:\PTUDW\PTUDW\63CNTT4N2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-D:\PTUDW\PTUDW\63CNTT4N2\obj\Debug\63CNTT4N2.csproj.AssemblyReference.cache
-D:\PTUDW\PTUDW\63CNTT4N2\obj\Debug\63CNTT4N2.csproj.CoreCompileInputs.cache
-D:\PTUDW\PTUDW\63CNTT4N2\obj\Debug\63CNTT4N2.csproj.CopyComplete
-D:\PTUDW\PTUDW\63CNTT4N2\obj\Debug\63CNTT4N2.dll
-D:\PTUDW\PTUDW\63CNTT4N2\obj\Debug\63CNTT4N2.pdb
-D:\PTUDW\PTUDW\63CNTT4N2\bin\MyClass.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\MyClass.pdb
-D:\PTUDW\PTUDW\63CNTT4N2\bin\MyClass.dll.config
-D:\PTUDW\PTUDW\63CNTT4N2\bin\EntityFramework.xml
-D:\PTUDW\PTUDW\63CNTT4N2\bin\EntityFramework.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\EntityFramework.SqlServer.dll
-D:\PTUDW\PTUDW\63CNTT4N2\bin\EntityFramework.SqlServer.xml
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\63CNTT4N2.dll.config
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\63CNTT4N2.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\63CNTT4N2.pdb
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\csc.exe
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\csc.exe.config
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\csc.rsp
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\csi.exe
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\csi.exe.config
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\csi.rsp
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\System.AppContext.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\System.Collections.Immutable.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\System.Console.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\System.Globalization.Calendars.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\System.IO.Compression.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\System.IO.FileSystem.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\System.Net.Http.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\System.Net.Sockets.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\System.Reflection.Metadata.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\System.ValueTuple.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\System.Xml.XPath.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\vbc.exe
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\vbc.exe.config
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\vbc.rsp
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\VBCSCompiler.exe
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\roslyn\VBCSCompiler.exe.config
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\Antlr3.Runtime.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\Microsoft.Web.Infrastructure.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\Newtonsoft.Json.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\System.Web.Helpers.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\System.Web.Mvc.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\System.Web.Optimization.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\System.Web.Razor.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\System.Web.WebPages.Deployment.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\System.Web.WebPages.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\System.Web.WebPages.Razor.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\WebGrease.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\System.Web.Helpers.xml
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\System.Web.Mvc.xml
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\System.Web.Optimization.xml
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\System.Web.Razor.xml
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\System.Web.WebPages.xml
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\System.Web.WebPages.Deployment.xml
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\System.Web.WebPages.Razor.xml
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\Newtonsoft.Json.xml
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\Antlr3.Runtime.pdb
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\obj\Debug\63CNTT4N2.csproj.AssemblyReference.cache
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\obj\Debug\63CNTT4N2.csproj.CoreCompileInputs.cache
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\obj\Debug\63CNTT4N2.csproj.CopyComplete
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\obj\Debug\63CNTT4N2.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\obj\Debug\63CNTT4N2.pdb
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\EntityFramework.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\EntityFramework.SqlServer.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\MyClass.dll
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\MyClass.pdb
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\MyClass.dll.config
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\EntityFramework.xml
+D:\Huynh Trung Hieu-63132050\Phat trien ung dung Web\TH\TH-PTUDW\63CNTT4N2\bin\EntityFramework.SqlServer.xml
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\63CNTT4N2.dll.config
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\63CNTT4N2.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\63CNTT4N2.pdb
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\csc.exe
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\csc.exe.config
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\csc.rsp
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\csi.exe
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\csi.exe.config
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\csi.rsp
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\Microsoft.Managed.Core.targets
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\System.AppContext.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\System.Collections.Immutable.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\System.Console.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\System.Globalization.Calendars.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\System.IO.Compression.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\System.IO.FileSystem.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\System.Net.Http.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\System.Net.Sockets.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\System.Reflection.Metadata.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\System.ValueTuple.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\System.Xml.XmlDocument.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\System.Xml.XPath.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\vbc.exe
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\vbc.exe.config
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\vbc.rsp
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\VBCSCompiler.exe
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\roslyn\VBCSCompiler.exe.config
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\Antlr3.Runtime.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\EntityFramework.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\EntityFramework.SqlServer.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\Microsoft.Web.Infrastructure.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\MyClass.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\Newtonsoft.Json.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\System.Web.Helpers.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\System.Web.Mvc.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\System.Web.Optimization.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\System.Web.Razor.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\System.Web.WebPages.Deployment.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\System.Web.WebPages.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\System.Web.WebPages.Razor.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\WebGrease.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\MyClass.pdb
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\MyClass.dll.config
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\EntityFramework.xml
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\EntityFramework.SqlServer.xml
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\System.Web.Helpers.xml
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\System.Web.Mvc.xml
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\System.Web.Optimization.xml
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\System.Web.Razor.xml
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\System.Web.WebPages.xml
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\System.Web.WebPages.Deployment.xml
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\System.Web.WebPages.Razor.xml
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\Newtonsoft.Json.xml
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\Antlr3.Runtime.pdb
+D:\PTUDW_Bai_mau\63CNTT4N2\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\PTUDW_Bai_mau\63CNTT4N2\obj\Debug\63CNTT4N2.csproj.AssemblyReference.cache
+D:\PTUDW_Bai_mau\63CNTT4N2\obj\Debug\63CNTT4N2.csproj.CoreCompileInputs.cache
+D:\PTUDW_Bai_mau\63CNTT4N2\obj\Debug\63CNTT4N2.csproj.CopyComplete
+D:\PTUDW_Bai_mau\63CNTT4N2\obj\Debug\63CNTT4N2.dll
+D:\PTUDW_Bai_mau\63CNTT4N2\obj\Debug\63CNTT4N2.pdb

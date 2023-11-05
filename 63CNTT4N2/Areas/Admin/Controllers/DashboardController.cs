@@ -8,7 +8,7 @@ namespace _63CNTT4N2.Areas.Admin.Controllers
 {
     public class DashboardController : Controller
     {
-        // GET: Admin/Dashboard
+        // GET: Admin/Admin
         public ActionResult Index()
         {
             return View();

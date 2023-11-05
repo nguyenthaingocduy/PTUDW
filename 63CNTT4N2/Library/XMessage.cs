@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace _63CNTT4N2.Library
+namespace UDW.Library
 {
     public class XMessage
     {

@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{01062F15-D0BB-4F20-A616-D02580D825BB}</ProjectGuid>
+    <ProjectGuid>{D4DA395C-DD70-40D8-8F71-E7D2035D639D}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>MyClass</RootNamespace>
@@ -12,8 +12,6 @@
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
-    <NuGetPackageImportStamp>
-    </NuGetPackageImportStamp>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -50,9 +48,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Dao\CatogoriesDao.cs" />
+    <Compile Include="DAO\CategoriesDAO.cs" />
+    <Compile Include="DAO\SuppliersDAO.cs" />
     <Compile Include="Model\Categories.cs" />
-    <Compile Include="Model\Contact.cs" />
+    <Compile Include="Model\Contacts.cs" />
     <Compile Include="Model\Links.cs" />
     <Compile Include="Model\Menus.cs" />
     <Compile Include="Model\MyDBContext.cs" />
@@ -60,7 +59,7 @@
     <Compile Include="Model\Orders.cs" />
     <Compile Include="Model\Posts.cs" />
     <Compile Include="Model\Products.cs" />
-    <Compile Include="Model\Slider.cs" />
+    <Compile Include="Model\Sliders.cs" />
     <Compile Include="Model\Suppliers.cs" />
     <Compile Include="Model\Topics.cs" />
     <Compile Include="Model\Users.cs" />
@@ -71,7 +70,6 @@
       <DependentUpon>Settings.settings</DependentUpon>
     </Compile>
   </ItemGroup>
-  <ItemGroup />
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
@@ -80,5 +78,6 @@
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
